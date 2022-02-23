@@ -1,1 +1,1 @@
-This README is for 0x01-git
+This is my first git project on ALX This file has been updated
