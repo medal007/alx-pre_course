@@ -1,1 +1,1 @@
-This file is mandatory in all ALX School taks
+This is my first git project on ALX This file has been updated
